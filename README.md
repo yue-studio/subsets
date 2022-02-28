@@ -1,6 +1,6 @@
 # subsets
 
-Given a set, find all the possible susets.
+Given a set, find all the possible subsets.
 
 E.g.: 
 
