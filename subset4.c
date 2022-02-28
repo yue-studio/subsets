@@ -13,7 +13,7 @@ void subset(int *nums, int comb) {
 
 int main()
 {
-    int numlist[3] ={1, 2, 3};
+    int numlist[] ={1, 2, 3};
     size_t n = sizeof(numlist)/sizeof(numlist[0]);
     int noSubsets = (int) pow((double) 2, n);
 
